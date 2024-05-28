@@ -1,0 +1,37 @@
+@import '../iconfonts/iconfont.css';
+
+@font-face {
+  font-family: 'aliSans-heavy'; /* 你可以自定义这个名字 */
+  src: url('../fonts/AlibabaSans-Heavy.otf') format('truetype'); /* 这个路径应该是你的字体文件在项目中的相对路径 */
+}
+
+@font-face {
+  font-family: 'harmonyOS-Bold'; /* 你可以自定义这个名字 */
+  src: url('../fonts/HarmonyOS_Bold.ttf') format('truetype'); /* 这个路径应该是你的字体文件在项目中的相对路径 */
+}
+
+@font-face {
+  font-family: 'harmonyOS-Medium'; /* 你可以自定义这个名字 */
+  src: url('../fonts/HarmonyOS_Medium.ttf') format('truetype'); /* 这个路径应该是你的字体文件在项目中的相对路径 */
+}
+
+@font-face {
+  font-family: 'harmonyOS-regular'; /* 你可以自定义这个名字 */
+  src: url('../fonts/HarmonyOS_Regular.ttf') format('truetype'); /* 这个路径应该是你的字体文件在项目中的相对路径 */
+}
+
+.alisans-heavy {
+  font-family: 'aliSans-heavy';
+}
+
+.harmonyOS-bold {
+  font-family: 'harmonyOS-Bold';
+}
+
+.harmonyOS-medium {
+  font-family: 'harmonyOS-Medium';
+}
+
+.harmonyOS-regular {
+  font-family: 'harmonyOS-regular';
+}

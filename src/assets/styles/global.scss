@@ -1,0 +1,22 @@
+@import './base.scss';
+@import './iconfont.scss';
+
+.page-wrap {
+  position: relative;
+  height: 100%;
+}
+
+.green {
+  color: #00b267 !important;
+}
+
+.red {
+  color: #ff3344 !important;
+}
+
+.money.add {
+  color: #ff3344;
+}
+.money.minus {
+  color: #00b267;
+}
