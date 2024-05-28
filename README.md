@@ -1,10 +1,10 @@
 # H5-vue3-template
 
-This template should help get you started developing with Vue 3 in Vite.
+A project template for developing H5 using Vue3
 
-## Customize configuration
+## Project Introduce
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+The H5 project of Vue3, which is ready to use out of the box, has achieved mobile adaptation while inheriting eslint+primer+lint stage+husky
 
 ## Project Setup
 
